@@ -1,0 +1,17 @@
+{
+  "dataset": "TweetsCOV19 (TweetsKB Derivative)",
+  "month": "2019-10",
+  "source": "tweetscov19",
+  "status": "complete",
+  "publisher_md5_verified": true,
+  "source_archive_md5": "4de1b6d54ef903383b71ce3f5ffdcb57",
+  "tweets_scanned": 150688,
+  "tweets_with_hashtags": 35617,
+  "hashtag_events": 95693,
+  "min_timestamp": "2019-09-30T22:00:00+00:00",
+  "max_timestamp": "2019-10-31T22:59:59+00:00",
+  "parquet_bytes": 1691299,
+  "elapsed_seconds": 81.65,
+  "output": "C:\\Users\\USER\\OneDrive\\Documents\\ChatGPT\\BDSMA MINI PROJECT\\data\\extracted\\2019-10\\events.parquet",
+  "note": "Clean, verified TweetsCOV19 partition from GESIS & L3S Research Center (Zenodo 3871753)."
+}

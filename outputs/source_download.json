@@ -1,0 +1,6 @@
+{
+  "status": "failed",
+  "month": "2013-02",
+  "error": "URLError: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>",
+  "next_step": "Check internet access from a regular Windows terminal, or inspect a locally downloaded archive with --file."
+}

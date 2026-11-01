@@ -1,0 +1,16 @@
+{
+  "test": "local_spark",
+  "source": "synthetic",
+  "status": "passed",
+  "spark_version": "3.5.7",
+  "python_worker_output": [
+    2,
+    4,
+    6
+  ],
+  "hashtag_counts": {
+    "ai": 3,
+    "cricket": 2,
+    "bollywood": 1
+  }
+}

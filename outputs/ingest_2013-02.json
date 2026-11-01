@@ -1,0 +1,29 @@
+{
+  "dataset": "TweetsKB",
+  "month": "2013-02",
+  "source": "tweetskb",
+  "status": "complete",
+  "tweets_scanned": 59194,
+  "tweets_with_hashtags": 13931,
+  "hashtag_events": 22351,
+  "timestamps_assumed_utc": 59194,
+  "tweets_outside_named_month": 0,
+  "min_timestamp": "2013-02-01T00:00:04+00:00",
+  "max_timestamp": "2013-02-28T23:59:26+00:00",
+  "deduplication": "within each tweet block; repeat tweet blocks require downstream Spark deduplication",
+  "limits": {
+    "compressed_bytes": 20971520,
+    "decoded_bytes": 536870912,
+    "parquet_bytes": 67108864,
+    "tweet_block_bytes": 1048576
+  },
+  "transport": {
+    "transport": "local",
+    "location": "C:\\Users\\USER\\OneDrive\\Documents\\ChatGPT\\BDSMA MINI PROJECT\\data\\staging\\month_2013-02.n3.gz"
+  },
+  "publisher_md5_verified": true,
+  "compressed_bytes_read": 9044508,
+  "parquet_bytes": 563816,
+  "elapsed_seconds": 370.95,
+  "output": "C:\\Users\\USER\\OneDrive\\Documents\\ChatGPT\\BDSMA MINI PROJECT\\data\\extracted\\2013-02\\events.parquet"
+}

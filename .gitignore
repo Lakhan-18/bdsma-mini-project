@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Large staging downloads & legacy archives
+data/staging/
+data/raw/
+data/extracted/2013-02/
+data/lake/2013-02/
+*.crc
+
+# Ephemeral runtime state & temporary execution logs
+outputs/runtime/
+outputs/*.log
+*.log
+
+# System & IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

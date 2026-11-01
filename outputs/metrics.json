@@ -1,0 +1,8 @@
+{
+  "source": "synthetic",
+  "train_rows": 292,
+  "test_rows": 76,
+  "validation_start": "2023-01-04 04:00:00+00:00",
+  "model_mae": 4.966134681135582,
+  "persistence_mae": 6.407894736842105
+}

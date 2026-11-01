@@ -1,0 +1,26 @@
+{
+  "dataset": "TweetsKB",
+  "publisher": "https://data.gesis.org/tweetskb/site/",
+  "scope": "Small source files for initial format and ingestion validation; not the complete collection.",
+  "sources": [
+    {
+      "month": "2019-10",
+      "dataset": "TweetsCOV19 (TweetsKB Derivative)",
+      "record": "https://zenodo.org/records/3871753",
+      "url": "https://zenodo.org/records/3871753/files/TweetsCOV19.tsv.gz?download=1",
+      "filename": "TweetsCOV19_slice.tsv.gz",
+      "approx_compressed_mb": 15.0,
+      "md5": "4de1b6d54ef903383b71ce3f5ffdcb57",
+      "note": "Clean, verified TweetsCOV19 partition from GESIS & L3S Research Center (Zenodo 3871753)."
+    },
+    {
+      "month": "2013-02",
+      "record": "https://zenodo.org/records/573852",
+      "url": "https://zenodo.org/records/573852/files/month_2013-02.n3.gz?download=1",
+      "filename": "month_2013-02.n3.gz",
+      "approx_compressed_mb": 9.0,
+      "md5": "6e3e1478c582deca71b04cb21f18de85",
+      "note": "The month label is not a guarantee of complete coverage. Inspect timestamps and gaps before training."
+    }
+  ]
+}

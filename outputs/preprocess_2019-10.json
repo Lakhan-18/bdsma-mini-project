@@ -1,0 +1,57 @@
+{
+  "dataset": "TweetsKB",
+  "month": "2019-10",
+  "status": "complete",
+  "source": "tweetskb",
+  "input_rows": 95693,
+  "output_rows": 94779,
+  "duplicate_pairs_removed": 914,
+  "distinct_hashtags": 43551,
+  "first_event_utc": "2019-09-30T22:00:00Z",
+  "last_event_utc": "2019-10-31T22:58:59Z",
+  "top_hashtags": [
+    {
+      "hashtag": "china",
+      "count": 897
+    },
+    {
+      "hashtag": "healthcare",
+      "count": 605
+    },
+    {
+      "hashtag": "hongkong",
+      "count": 481
+    },
+    {
+      "hashtag": "hongkongprotests",
+      "count": 393
+    },
+    {
+      "hashtag": "standwithhongkong",
+      "count": 320
+    },
+    {
+      "hashtag": "chinazi",
+      "count": 296
+    },
+    {
+      "hashtag": "strongertogether",
+      "count": 288
+    },
+    {
+      "hashtag": "antichinazi",
+      "count": 267
+    },
+    {
+      "hashtag": "antimasklaw",
+      "count": 234
+    },
+    {
+      "hashtag": "bbnaija",
+      "count": 195
+    }
+  ],
+  "parquet_bytes": 2384691,
+  "source_archive_md5": "4de1b6d54ef903383b71ce3f5ffdcb57",
+  "output": "/workspace/data/lake/2019-10"
+}

@@ -1,0 +1,57 @@
+{
+  "dataset": "TweetsKB",
+  "month": "2013-02",
+  "status": "complete",
+  "source": "tweetskb",
+  "input_rows": 22351,
+  "output_rows": 22351,
+  "duplicate_pairs_removed": 0,
+  "distinct_hashtags": 12077,
+  "first_event_utc": "2013-02-01T00:00:04Z",
+  "last_event_utc": "2013-02-28T23:58:14Z",
+  "top_hashtags": [
+    {
+      "hashtag": "pussy",
+      "count": 166
+    },
+    {
+      "hashtag": "tcot",
+      "count": 151
+    },
+    {
+      "hashtag": "ass",
+      "count": 137
+    },
+    {
+      "hashtag": "rt",
+      "count": 118
+    },
+    {
+      "hashtag": "sexy",
+      "count": 110
+    },
+    {
+      "hashtag": "tits",
+      "count": 102
+    },
+    {
+      "hashtag": "boobs",
+      "count": 101
+    },
+    {
+      "hashtag": "tittytuesday",
+      "count": 94
+    },
+    {
+      "hashtag": "imagine",
+      "count": 78
+    },
+    {
+      "hashtag": "porn",
+      "count": 71
+    }
+  ],
+  "parquet_bytes": 708855,
+  "source_archive_md5": "6e3e1478c582deca71b04cb21f18de85",
+  "output": "/workspace/data/lake/2013-02"
+}

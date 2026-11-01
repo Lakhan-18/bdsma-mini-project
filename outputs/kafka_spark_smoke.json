@@ -1,0 +1,17 @@
+{
+  "test": "kafka_spark_batch_connector",
+  "source": "synthetic",
+  "status": "passed",
+  "run_id": "1f1adf52211b468ba8ac43e96f9419a5",
+  "topic": "bdsma-spark-smoke-test",
+  "bootstrap": "kafka:19092",
+  "stage": "complete",
+  "spark_version": "3.5.7",
+  "hashtag_counts": {
+    "ai": 3,
+    "cricket": 2,
+    "bollywood": 1
+  },
+  "starting_offset": 0,
+  "ending_offset_exclusive": 6
+}

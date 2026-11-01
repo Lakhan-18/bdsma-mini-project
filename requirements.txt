@@ -1,0 +1,9 @@
+pyspark==3.5.7
+kafka-python>=2.2,<3
+streamlit>=1.40,<2
+pandas>=2.2,<3
+pyarrow>=14,<26
+scikit-learn>=1.5,<2
+plotly>=5,<8
+joblib>=1.4,<2
+rdflib==7.1.4
